@@ -3,9 +3,9 @@
 ***Product:*** A distributed computing based Volunteer Computing system to decrease genome analysis computations.
 
 ***Problem Statement:***
-
+Genome sequencing is a computationally intensive and expensive technique of sequencing the genotype of a human.
+A single sequence costs over 1000$ for sequencing and takes days for processing.
 ## Project Description:
-
 ### Law of Distributed Systems: The CAP Theorem
 (_refer_: http://ksat.me/a-plain-english-introduction-to-cap-theorem/)  
 It states that, when you are designing a distributed system you can get cannot achieve all three of Consistency, Availability and Partition tolerance. You can pick only two of:
