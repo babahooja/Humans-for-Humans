@@ -4,7 +4,9 @@
 
 ***Problem Statement:***
 Genome sequencing is a computationally intensive and expensive technique of sequencing the genotype of a human.
-A single sequence costs over 1000$ for sequencing and takes days for processing.
+A single sequence costs over 1000$ for sequencing and takes days for processing.    
+
+Link: https://drive.google.com/open?id=1qUnXQp5G34UNLZZHGO-0lk0RXBU1_lIu (for Demo Draft I)
 ## Project Description:
 ### Law of Distributed Systems: The CAP Theorem
 (_refer_: http://ksat.me/a-plain-english-introduction-to-cap-theorem/)  
