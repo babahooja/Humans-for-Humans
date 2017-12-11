@@ -36,6 +36,10 @@ Networks as message flows
 1. more likely to fail [0]
 2. less likely to fail [1]
 
+### Dependancies:
+1. Android JDK, JRE
+2. Python 3.6
+
 ### Important Links for better understanding
 WSG Process: https://www.cdc.gov/pulsenet/pathogens/wgs.html  
 NASA's Home Initiative: https://en.wikipedia.org/wiki/SETI@home  
